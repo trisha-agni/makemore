@@ -14,9 +14,9 @@ Python:
     - Broadcasting: stretching the smaller tensor's shape to match the larger tensor's shape
 
 Math:
-- Probability distribution
-- Maximum likelihood estimation
-  - Likelihood: product of all individual parameter probabilities
+- Probability distribution: gives the probabilities of all possible outcomes
+- Likelihood: product of all individual parameter probabilities
+  - Log likelihood is often easier to work with
 
 AI:
 - Special start and end characters (add more later)
