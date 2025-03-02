@@ -16,7 +16,7 @@ Python:
 Math:
 - Probability distribution: gives the probabilities of all possible outcomes
 - Likelihood: product of all individual parameter probabilities
-  - Log likelihood is often easier to work with
+  - Log-likelihood is often easier to work with
 
 AI:
 - Special start and end characters (add more later)
