@@ -19,4 +19,7 @@ Math:
   - Log-likelihood is often easier to work with
 
 AI:
-- Special start and end characters (add more later)
+- Special start and end characters
+  - Ex: "." + word + "."
+  - Tells model the starting and ending points of each word
+- One-hot encoding: used to eliminate ordinality of inputs
