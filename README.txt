@@ -23,3 +23,5 @@ AI:
   - Ex: "." + word + "."
   - Tells model the starting and ending points of each word
 - One-hot encoding: used to eliminate ordinality of inputs
+- Logits: raw outputs of a neural network
+- Softmax activation function: converts logits into a probability distribution
