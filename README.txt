@@ -3,9 +3,10 @@ Description: In this project I have implemented a character-level language model
 What I learned:
 
 Python:
-- lambda function: used to sort bigrams based on number of occurrences
-- enumerate(): iterate an index with the list item
-- zip(): combine multiple iterables into a single iterable of tuples
+- Functions:
+  - lambda function: used to sort bigrams based on number of occurrences
+  - enumerate(): iterate an index with the list item
+  - zip(): combine multiple iterables into a single iterable of tuples
 - Libraries:
   - Torch
     - Used to create a 2D array containing counts of the bigrams
@@ -25,3 +26,4 @@ AI:
 - One-hot encoding: used to eliminate ordinality of inputs
 - Logits: raw outputs of a neural network
 - Softmax activation function: converts logits into a probability distribution
+- Regularization: added term to loss function that discourages larger weights
