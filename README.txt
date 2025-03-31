@@ -1,4 +1,4 @@
-Description: In this project I have implemented a character-level language model.
+Description: In this project I have implemented a bigram character-level language model.
 
 What I learned:
 
